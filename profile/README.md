@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+IndyHamWAN is a nonprofit building and maintaining a high-speed, redundant, compatible wide area network in the Central Indiana and the surrounding area for licensed Amatuer Radio Operators. With HamWAN, you can bring connectivity to remote areas and perform time sensitive wide area operations.
+
 <!--
 
 **Here are some ideas to get you started:**
